@@ -24,9 +24,11 @@ public class Main {
        list.addLast(20);
        list.addLast(30);
 
-       list.removeLast();
+       list.removeFirst();
+       list.removeFirst();
+       list.removeFirst();
 
-       System.out.println(list);
+       System.out.println(list.getSize());
     }
 
 }

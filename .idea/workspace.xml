@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add removeFirst method">
+    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add removeLast method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
@@ -35,7 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727178797669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add removeLast method">
+      <option name="closed" value="true" />
+      <created>1727185105033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727185105033</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -109,17 +117,7 @@
     <MESSAGE value="add indexOf method" />
     <MESSAGE value="add contains method" />
     <MESSAGE value="add removeFirst method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add removeFirst method" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/LinkedLists/Main.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add removeLast method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add removeLast method" />
   </component>
 </project>
