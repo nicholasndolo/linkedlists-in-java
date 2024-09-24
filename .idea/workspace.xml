@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
+    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="explore LinkedList class and its useful methods">
+      <change afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727154725209</updated>
     </task>
+    <task id="LOCAL-00001" summary="explore LinkedList class and its useful methods">
+      <option name="closed" value="true" />
+      <created>1727156346312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727156346313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="explore LinkedList class and its useful methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="explore LinkedList class and its useful methods" />
   </component>
 </project>
