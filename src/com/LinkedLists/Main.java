@@ -24,11 +24,9 @@ public class Main {
        list.addLast(20);
        list.addLast(30);
 
-       list.removeFirst();
-       list.removeFirst();
-       list.removeFirst();
+       var array = list.toArray();
 
-       System.out.println(list.getSize());
+       System.out.println(Arrays.toString(array));
     }
 
 }

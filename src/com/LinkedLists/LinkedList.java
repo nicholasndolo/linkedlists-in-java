@@ -99,6 +99,17 @@ public class LinkedList {
         return null;
     }
 
+    public int[] toArray(){
+        var array = new int[size];
+        var current = first;
+        var index = 0;
+
+        while(current != null){
+            array[index++] = current.value;
+            current = current.next;
+        }
+        return array;
+    }
 
 
     private boolean isEmpty(){
