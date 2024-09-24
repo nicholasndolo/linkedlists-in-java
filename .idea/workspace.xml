@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="explore LinkedList class and its useful methods">
-      <change afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
+    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="implement a LinkedList and addLast method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -59,11 +59,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727156346313</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implement a LinkedList and addLast method">
+      <option name="closed" value="true" />
+      <created>1727165884937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727165884937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="explore LinkedList class and its useful methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="explore LinkedList class and its useful methods" />
+    <MESSAGE value="implement a LinkedList and addLast method" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement a LinkedList and addLast method" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/LinkedLists/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
