@@ -21,7 +21,10 @@ public class Main {
 
         var list = new LinkedList();
        list.addLast(10);
-       list.removeFirst();
+       list.addLast(20);
+       list.addLast(30);
+
+       list.removeLast();
 
        System.out.println(list);
     }

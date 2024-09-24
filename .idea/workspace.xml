@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add contains method">
+    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add removeFirst method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727173840306</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add removeFirst method">
+      <option name="closed" value="true" />
+      <created>1727178797669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727178797669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -100,15 +108,16 @@
     <MESSAGE value="implement addFirst method" />
     <MESSAGE value="add indexOf method" />
     <MESSAGE value="add contains method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contains method" />
+    <MESSAGE value="add removeFirst method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add removeFirst method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/LinkedLists/Main.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="6" />
+          <line>28</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
