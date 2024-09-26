@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add getSize method">
+    <list default="true" id="98d40d8e-1e55-4979-8a1a-ab73315dd8cf" name="Changes" comment="add reverse method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/LinkedLists/Main.java" afterDir="false" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727189265367</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add reverse method">
+      <option name="closed" value="true" />
+      <created>1727351426001</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727351426001</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +135,7 @@
     <MESSAGE value="add removeFirst method" />
     <MESSAGE value="add removeLast method" />
     <MESSAGE value="add getSize method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add getSize method" />
+    <MESSAGE value="add reverse method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reverse method" />
   </component>
 </project>
