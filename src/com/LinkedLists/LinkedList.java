@@ -136,7 +136,7 @@ public class LinkedList {
 
         var firstPointer = first;
         var secondPointer = first;
-        var distanceBetweenPointers = k - 1; //k = 2
+        var distanceBetweenPointers = k - 1;
 
         for(int i = 0; i < distanceBetweenPointers; i++){
             secondPointer = secondPointer.next;
@@ -150,8 +150,25 @@ public class LinkedList {
         }
 
         return firstPointer.value;
+    }
 
+    public void printMiddle(){
+        if(isEmpty())
+            throw new IllegalStateException();
 
+        var pointerA = first;
+        var pointerB = first;
+
+       while(pointerB != last && pointerB.next != last){
+           pointerA = pointerA.next;
+           pointerB = pointerB.next.next;
+       }
+
+       if(pointerB == last){
+           System.out.println(pointerA.value);
+       } else {
+           System.out.println(pointerA.value + "," + pointerA.next.value);
+       }
     }
 
 
